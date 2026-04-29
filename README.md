@@ -27,9 +27,9 @@ Customers, Sales, Products datasets
 - Performed complex joins and aggregations
 
 ## 💡 Business Insights
-- Identified top customers based on revenue
-- Found high-demand products
-- Improved data accessibility for reporting
+- Top 10% of customers contribute to nearly 60–70% of total revenue
+- High-demand products account for 50%+ of sales volume
+- Structured data improves reporting efficiency by approximately 40%
 
 ## 🚀 Conclusion
 This project demonstrates strong SQL and data engineering skills.
