@@ -1,31 +1,35 @@
 # Data Warehouse SQL Project
 
+## 📖 Project Overview
+This project builds a structured data warehouse to enable efficient data analysis and reporting.
+
 ## 📌 Problem Statement
-Design a database system to store and analyze large-scale business data.
+Raw data is difficult to analyze without proper structure and organization.
 
 ## 🎯 Objective
-To build a structured data warehouse and perform advanced SQL analysis.
+To design a database system and perform advanced SQL queries for business insights.
 
 ## 🛠 Tools & Technologies
 - SQL Server
 - SSMS
 
 ## 📊 Dataset
-Multiple CSV datasets (Customers, Sales, Products)
+Customers, Sales, Products datasets
 
 ## ⚙️ Approach
-- Designed database schema
+- Designed relational database schema
 - Created tables and relationships
-- Loaded data (ETL process)
+- Loaded and transformed data (ETL)
 - Wrote advanced SQL queries
 
 ## 📈 Key Results
-- Created structured database system
+- Built efficient database system
 - Performed complex joins and aggregations
 
 ## 💡 Business Insights
-- Identified customer purchase behavior
-- Found top revenue-generating products
+- Identified top customers based on revenue
+- Found high-demand products
+- Improved data accessibility for reporting
 
 ## 🚀 Conclusion
-Demonstrates strong SQL and data engineering skills.
+This project demonstrates strong SQL and data engineering skills.
